@@ -1,0 +1,31 @@
+physics --
+blocks are moveable - placed / not dropped (no 'floor')
+coherent not adherent -- building for say platforms/walls etc.
+gravity of self not of any 'point' in world - user input physics only. (no weather yet)
+
+
+3d space -- 'void'
+
+hands/reticule --
+
+blocks ==
+
+sound - scream/sighs input
+latched creation --
+
+
+amplitude
+freq
+length of sample
+
+
+
+
+control schema
+3d movements accel/ar/ds
+
+latch button to record/create box
+
+action button to 'hold/lift'
+#button to destroy
+button to activate to replay
